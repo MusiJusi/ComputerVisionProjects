@@ -1,0 +1,7 @@
+torch
+torchvision
+Pillow
+python-telegram-bot
+python-dotenv
+numpy
+
